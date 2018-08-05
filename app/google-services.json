@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "683480280163",
+    "firebase_url": "https://travelgoapp-f4000.firebaseio.com",
+    "project_id": "travelgoapp-f4000",
+    "storage_bucket": "travelgoapp-f4000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683480280163:android:d538bef6f159d433",
+        "android_client_info": {
+          "package_name": "com.example.pallab.travelgoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683480280163-2risjofeg09514qqf7s420o2qjl90pem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pallab.travelgoapp",
+            "certificate_hash": "4ef36316c42dbb48618cb383b6e759f0989f8290"
+          }
+        },
+        {
+          "client_id": "683480280163-cg9kh68mo34b252380jv1cqapaptjnjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdiyYwFK33ykDLZk9OtVHPLUVicbJn5sA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683480280163-cg9kh68mo34b252380jv1cqapaptjnjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

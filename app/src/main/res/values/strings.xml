@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">TravelGoApp</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyDpPn8wRaUa-vhC-uRkKyH14IIf-53eAPs</string>
+    <string name="title_activity_welcome1">Map</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="google_browser_key">AIzaSyCVwCVWC0_b2Ga_E18jpYEsagWZ2qvNECo</string>
+    <string name="title_activity_trip_detail">Map</string>
+    <string name="title_activity_driver_home">DriverHome</string>
+
+</resources>
